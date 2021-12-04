@@ -1,0 +1,34 @@
+.list-design {
+  list-style: none;
+  border-radius: 10px;
+  width: 14rem;
+}
+
+.list-background-color {
+  background: #1f86ff;
+}
+
+.list-item {
+  cursor: pointer;
+}
+
+.icon-width {
+  width: 1.5rem;
+}
+
+ol,
+ul {
+  padding-left: 1rem;
+}
+.sideBar {
+  padding-bottom: 50px;
+  background: #001137;
+  height: 100%;
+}
+.wallet {
+  background-color: #1f86ff;
+  width: 200px;
+  border-radius: 20px;
+  color: #fff;
+  height: 48px;
+}

@@ -1,0 +1,30 @@
+@media only screen and (max-width: 1400px) {
+  .card-res {
+    display: flex;
+    justify-content: space-around;
+  }
+}
+
+@media only screen and (max-width: 1071px) {
+  .card-res {
+    display: block;
+  }
+  .card-width {
+    width: 46rem !important;
+    margin: auto;
+  }
+}
+
+@media only screen and (max-width: 992px) {
+  .ms-3 {
+    margin-left: 0rem !important;
+  }
+  .container {
+    max-width: 100% !important;
+    padding: 0;
+  }
+}
+
+.card-width {
+  width: 23rem;
+}
