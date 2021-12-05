@@ -25,6 +25,30 @@
   }
 }
 
+@media only screen and (max-width: 767px) {
+  .card-width {
+    width: 70% !important;
+    margin: auto;
+  }
+}
+@media only screen and (max-width: 692px) {
+  .card-width {
+    width: 27rem !important;
+    margin: auto;
+  }
+}
+
+@media only screen and (max-width: 467px) {
+  .card-width {
+    width: 20rem !important;
+    margin: auto;
+    padding-left: 20px;
+  }
+  .ps-2 {
+    padding-left: 20px !important;
+  }
+}
+
 .card-width {
   width: 23rem;
 }

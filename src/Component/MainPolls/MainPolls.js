@@ -5,17 +5,9 @@ import marketCap from "../../images/market-cap.png";
 import totalLocked from "../../images/total-locked.png";
 import './MainPolls.css';
 
-// const cardData = [
-//   {
-//     title: "Market Cap",
-//     img: marketCap,
-//     sctTitle:
-//   }
-// ]
-
 export default function MainPolls() {
   return (
-    <div>
+    <div style={{width:'100%'}}>
        <Container>
        <Row>
           <Col className="mb-5" xxl={8}>
